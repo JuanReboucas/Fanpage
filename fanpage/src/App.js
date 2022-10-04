@@ -13,6 +13,10 @@ function App() {
           <li><a href="#">Learn React</a></li>
         </ul> 
       </header>
+      <section> 
+        <h2 id="text">Star Wars</h2>
+        <img src="starwars.png"></img>
+      </section>
     </div>
   );
 }

@@ -30,6 +30,33 @@ header{
  text-decoration: none;
 }
 
+.navigation
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+.navigation li
+{
+  list-style: none;
+}
+
+.navigation li a
+{
+  text-decoration:none;
+  padding: 6px 15px;
+  color: black;
+  border-radius: 20px;
+}
+
+.navigation li a:hover
+{
+background: black;
+color: white;
+}
+
 
 
 
